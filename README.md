@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Garland Xie (he/him) and I’m a researcher who is pursuing their PhD in the Department of Ecology and Evolutionary Biology at the University of Toronto (under the supervision of J. Scott MacIvor). 
+My name is Garland Xie (he/him) and I’m a researcher who is pursuing their PhD in the Department of Ecology and Evolutionary Biology at the University of Toronto (under the supervision of (J. Scott MacIvor)[https://www.macivorlab.ca]). 
 
 The main goal of my research is to understand how to balance the needs of humans and wildlife within and across urban green spaces. My previous and current projects span different disciplines, ranging from ecology (biodiversity), data science, urban design, ecosystem services, and applied conservation biology.
 
