@@ -6,7 +6,6 @@ The main goal of my research is to understand how to balance the needs of humans
 
 On my GitHub, you will find some archived (or maintained) data and code for these projects to ensure transparency and reproducibility whenever possible. Most of them are written in the R programming language, but I’m hoping to use Julia for some future simulation work on green space design!
 
-- 🔭 I’m currently collaborating on how [smart-device data](https://apexrms.com/anonymized-smart-device-data-in-green-spaces/) can help understand how people engage in urban parks!
 - 📫 Reach out to me on [mastodon](https://ecoevo.social/@garlandxie) or [Twitter](https://twitter.com/GarlandXie)
 - ❗ You can find out more about me [here](https://linktr.ee/garlandxie)
 
